@@ -3,12 +3,12 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about/about.css";
-import Profile from "../../assets/img/profile/"
+//import Profile from "../../assets/img/profile/"
 import Profile from "../../assets/img/profile/profile.svg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
-const About = () => {
+const About = () => { 
   return (
     <div id="about">
       <div className="about">
