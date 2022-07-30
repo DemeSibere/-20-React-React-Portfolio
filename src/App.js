@@ -4,12 +4,15 @@ import "./App.css";
 import NavBar from "./components/navBar/NavBar";
 import CustomCarousel from "./components/carousel/Carousal";
 import TitleMessage from "./components/title-message/TitleMessage";
+//import About from "./views/about/About";
 import About from "./views/about/About";
 import { Parallax } from "react-parallax";
 import Fade from "react-reveal/Fade";
+//import something from 'react-reveal/Fade';
 //import Bounce from "react-reveal/Bounce";
 import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
+
 import Skills from "./views/skills/Skills";
 //import Blog from "./views/blog-section/BlogSection";
 import Projects from "./views/projects/projects";
@@ -60,7 +63,6 @@ function App() {
           <Container className="container-box rounded">
             <Slide left duration={2000}>
               <hr />
-              <Blog />
             </Slide>
           </Container>
         </div>

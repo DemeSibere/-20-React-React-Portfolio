@@ -8,8 +8,8 @@ import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
-import L_GitHub from "../../assets/img/skills/netlify-icon.svg"
-import L_MYSQL from "../../assets/img/skills/mysql.svg"
+//import L_GitHub from "../../assets/img/skills/netlify-icon.svg"
+import L_MYSQL from "../../assets/img/skills/mysql-svgrepo-com.svg"
 import L_NODEJS from "../../assets/img/skills/nodejs.svg"
 
 
@@ -66,7 +66,7 @@ export const skills = {
       {
         link: "https://gitlab.com/pages",
         imgAltText: "GitLab Pages",
-        imgSrc: L_GitHub,
+        //imgSrc: L_GitHub,
         skillName: "GitHub",
       },
       {

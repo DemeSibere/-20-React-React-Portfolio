@@ -19,7 +19,7 @@ import ChatKharaMeal from "../../assets/img/projects/ChatKharaMeal-Website.png";
 import WeatherDashboard from "../../assets/img/projects/weather.png";
 import MusicList from "../../assets/img/projects/Music-List-App.png";
 import QuizApp from "../../assets/img/projects/QuizzApp-JavaScript.png";
-import PasswordGApp from "../../assets/img/projects/PG.jpeg";
+import PasswordGApp from "../../assets/img/projects/PG.png";
 import DayPlanner from "../../assets/img/projects/dayPlan.png";
 //import FbComponent from "../../assets/img/projects/Fb-component.png";
 

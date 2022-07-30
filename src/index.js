@@ -5,12 +5,11 @@ import App from './App';
 import { ThemeProvider } from 'styled-components'
 import { theme } from './components/theme/theme'
 
-
-ReactDOM.render(
+const root = ReactDOM.createRoot( document.getElementById('root'))
+root.render(
 <ThemeProvider theme={theme}>
 <App />
-</ThemeProvider>,
-  document.getElementById('root')
+</ThemeProvider>
 );
 
 

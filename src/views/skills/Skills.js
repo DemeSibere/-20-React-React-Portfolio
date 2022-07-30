@@ -1,9 +1,9 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import CardDeck from "react-bootstrap/CardDeck";
+//import CardDeck from "react-bootstrap/CardDeck";
 import Image from "react-bootstrap/Image";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
+//import Row from "react-bootstrap/Row";
+//import Col from "react-bootstrap/Col";
 
 // skills
 import { skills } from "./db-skills";
@@ -14,7 +14,6 @@ const Skills = () => {
     return (
         <div className="pt-3 pb-3" id="skills">
             <h1 className="text-center font-details-b pb-4">TECH SKILLS</h1>
-            <CardDeck>
                 <div>
                     <Card className="focus mb-2">
                         <Card.Body>
@@ -97,7 +96,6 @@ const Skills = () => {
                         </Card.Body>
                     </Card>
                 </div>
-            </CardDeck>
         </div>
     );
 };

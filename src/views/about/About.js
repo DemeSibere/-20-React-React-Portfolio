@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import "./about/about.css";
+import "./about.css";
 //import Profile from "../../assets/img/profile/"
 import Profile from "../../assets/img/profile/profile.svg";
 import Image from "react-bootstrap/Image";
